@@ -1,4 +1,4 @@
-from matplotlib import pyplot as frame 
+
 from math import sin 
 from math import radians
 from time import sleep
